@@ -25,7 +25,7 @@
 
 ( You will need **Git** for this if you are running a Windows PC, Get it [HERE](https://git-scm.com/) )
 
-```git clone https://github.com/pextech/Duty-generator_taskforce.git```
+```git clone https://github.com/pextech/minority-backend.git```
 
 **To Install all dependencies:**
 
