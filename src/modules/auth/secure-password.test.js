@@ -27,16 +27,6 @@ describe('/PATCH secure password', () => {
         res.body.should.have.property('data');
         res.body.data.should.be.an('object');
         res.body.data.should.have.property('_id');
-        res.body.data.should.have.property('role');
-        res.body.data.should.have.property('linkedin');
-        res.body.data.should.have.property('twitter');
-        res.body.data.should.have.property('instagram');
-        res.body.data.should.have.property('facebook');
-        res.body.data.should.have.property('fullName');
-        res.body.data.should.have.property('email');
-        res.body.data.should.have.property('phoneNumber');
-        res.body.data.should.have.property('companyName');
-        res.body.data.should.have.property('address');
         res.body.data.should.have.property('createdAt');
         res.body.data.should.have.property('updatedAt');
       });

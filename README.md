@@ -1,4 +1,3 @@
-<!-- ![Build Status](https://github.com/pextech/DutyGenerator/workflows/Node.js%20CI/badge.svg) -->
 # minority-Backend 
 
 ![Design preview for the minority app](ui.png)
@@ -28,10 +27,6 @@
 
 ```npm install```
 
-**To run the tests:**
-
-```npm run test```
-
 **Now to start the app:**
 
 ```npm run start```
@@ -40,7 +35,7 @@
 
 ( You need **nodemon** installed for this, run `npm i -g nodemon` to install it )
 
-```npm run dev-start```
+```npm run start:dev```
 
 # Tools used
 
