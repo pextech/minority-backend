@@ -1,5 +1,7 @@
 # minority-Backend 
 
+```Front-end Preview for the minority app```
+
 ![Design preview for the minority app](ui.png)
 
 <!-- The Github-page Link of the hosted front-end app **[HERE]()** -->
